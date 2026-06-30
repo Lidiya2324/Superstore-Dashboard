@@ -123,7 +123,7 @@ Task2_DataVisualization/
 
 ### Page 2 – Executive Summary
 
-![Superstore-Dashboard](Executive_Summary_Page2.png)
+![Task 2: Data Visualization and Storytelling – Sample Superstore Dashboard](Executive_Summary_Page2.png)
 
 ---
 
