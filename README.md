@@ -119,11 +119,11 @@ Task2_DataVisualization/
 
 ### Page 1 – Executive Business Dashboard
 
-*(Insert Dashboard Screenshot)*
+![Sample Superstore Profit Report](Dashboard_Page1.png)
 
 ### Page 2 – Executive Summary
 
-*(Insert Executive Summary Screenshot)*
+![Sample Superstore Profit Report](Executive_Summary_Page2.png)
 
 ---
 
