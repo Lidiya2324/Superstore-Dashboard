@@ -1,4 +1,6 @@
-# Task 2: Data Visualization and Storytelling – Sample Superstore Dashboard
+# Sample Superstore Dashboard
+
+Task 2: Data Visualization and Storytelling –Sample Superstore Dashboard
 
 ## Project Overview
 
@@ -119,7 +121,8 @@ Task2_DataVisualization/
 
 ### Page 1 – Executive Business Dashboard
 
-![Superstore-Dashboard](Dashboard_Page1.png)
+![Sample Superstore Dashboard](Dashboard_Page1.png)
+![Inventory Management Power BI Dashboard](dashboard-preview.png)
 
 ### Page 2 – Executive Summary
 
